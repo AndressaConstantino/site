@@ -1,0 +1,51 @@
+body{
+    background-color: #FAC8F9;
+}
+*{
+    color: #70313D;
+}
+h1{
+    font-size: 50px; 
+}
+div.painel{
+    background-color: #EDB4FA;
+    width: 75%;
+    min-width: 250%;
+    padding: 15px 15px;
+    box-shadow: 5px 5px; color: black;
+}
+
+div.navbar{
+    background-color: #ccc;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 5px 5px black;
+}
+
+div.navbar a{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+div.navbar a.right{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+div.navbar img{
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
